@@ -33,5 +33,5 @@ Definition of Process : Process is an instance of a program in execution.
 Eg: (Jastai MS word , chrome , media player kholda kholesi yo sabai process lai kasari execute garne .
     vanera jasari kunai program lai execute garnu paryo vane tyo program process banxa )
 
-![alt text](image.png)
+![alt text](ProcessManagement.png)
 
