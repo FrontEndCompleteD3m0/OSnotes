@@ -1,4 +1,5 @@
-VID-1
+VID-1 => video link "https://youtu.be/WJ-UaAaumNA?si=LeCwZkUsZHB8DEnB"
+
 What  OS - definition(Abstracted Form)?
 =>Operating System vaneko euta system software ho jun chai
  hardware ra user ko bich ma interaction garauna help garxa
@@ -28,8 +29,9 @@ server access ma ni use hunxa kasle suru ma server access garne vanera efficient
 -> Process Management(CPU scheduling)
 
 Process or Application lai manage garxa kasari execute garne vanera vanxa
+Definition of Process : Process is an instance of a program in execution.
+Eg: (Jastai MS word , chrome , media player kholda kholesi yo sabai process lai kasari execute garne .
+    vanera jasari kunai program lai execute garnu paryo vane tyo program process banxa )
 
-Eg: 
-
-
+![alt text](image.png)
 
